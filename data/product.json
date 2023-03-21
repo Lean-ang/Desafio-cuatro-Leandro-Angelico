@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Caja Activa AudioLab",
+    "description": "Woofer de 15 pulgadas con una potencia de 1000w rms",
+    "code": "magna-15",
+    "price": 4000000,
+    "stock": 6,
+    "status": false,
+    "category": "Audio",
+    "thumbnails": "https://raw.githubusercontent.com/Lean-ang/SONAR---ANGELICO/master/assets/img-sonido/magna15a.png",
+    "id": "3fc7b37b-867b-4a67-99ca-9caec205b808"
+  },
+  {
+    "title": "Subwoofer American Vox",
+    "description": "Subwoofer de 18 pulgadas con una potencia de 1000w rms",
+    "code": "sub-av",
+    "price": 450000,
+    "stock": 10,
+    "status": false,
+    "category": "Audio",
+    "thumbnails": "https://raw.githubusercontent.com/Lean-ang/SONAR---ANGELICO/master/assets/img-sonido/subwoofer-av.png",
+    "id": "87f5ad20-638f-4fb5-8bf2-06eb746ac9e1"
+  },
+  {
+    "title": "Line Array Aero DAS",
+    "description": "woofer de 10 pulgadas con una potencia de 600w rms",
+    "code": "aero-das",
+    "price": 500000,
+    "stock": 18,
+    "status": true,
+    "category": "Audio",
+    "thumbnails": "https://raw.githubusercontent.com/Lean-ang/SONAR---ANGELICO/master/assets/img-sonido/aero-das.png",
+    "id": "910a2c96-d5fc-4270-a2e5-ec2f6719848d"
+  }
+]
